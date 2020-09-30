@@ -1,0 +1,13 @@
+body{
+	background-color: #B2BABB;
+}
+div{
+	padding: 40px 
+}
+div{
+	border-style: dashed;
+	border-color: red;
+}
+content{
+	border-style: dashed;
+}
